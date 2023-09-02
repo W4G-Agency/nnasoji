@@ -688,7 +688,7 @@ blockquote {
 }
 .section-contacts {
   overflow: hidden;
-  padding-top: 12vh;
+  /* padding-top: 12vh; */
   padding-bottom: 10vh;
 }
 .utility-page-wrap {
