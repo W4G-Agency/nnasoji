@@ -206,6 +206,9 @@ blockquote {
   -webkit-transition: color 0.4s;
   transition: color 0.4s;
   color: #fff;
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
 }
 .logo:hover {
   opacity: 1;
@@ -213,7 +216,7 @@ blockquote {
 }
 .hero-logo {
   overflow: hidden;
-  margin-bottom: 6vw;
+  margin-bottom: 8vw;
   line-height: 1;
 }
 .section-author {
